@@ -1,16 +1,35 @@
-# siap_polisi_mitra_app
+# Siap Polisi App
 
-A new Flutter project.
+Aplikasi Polisi Panic Button, dibuat menggunakan Flutter versi 2.5.3
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Fitur
 
-A few resources to get you started if this is your first Flutter project:
+- Splashscreen
+- Halaman Login dan Daftar
+- Halaman Verifikasi
+- Halaman Home Panic Button
+- Halaman Detail Panic Button
+- Halaman Unlock Laporan Masyarakat
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<p align="left"> 
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Splashscreen.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Login%201.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Daftar%201.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Daftar%202.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Daftar%203.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Verifikasi.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Home%20Panic%20Button.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Detail%20Panic%20Button.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Unlock.jpg" width=25% height=25%/>  
+</p>
+
+
+## Preview Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YSSZz2321SE"><img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Splashscreen.jpg" width=25% height=25% alt="Siap Polisi App"></a>
+</div>

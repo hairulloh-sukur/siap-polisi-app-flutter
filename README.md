@@ -1,9 +1,12 @@
 <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width=25% height=25%/> 
 
+<br>
+
 # Siap Polisi App
 
 Aplikasi Polisi Panic Button, dibuat menggunakan Flutter versi 2.5.3
 
+<br>
 
 ## Fitur
 
@@ -14,6 +17,7 @@ Aplikasi Polisi Panic Button, dibuat menggunakan Flutter versi 2.5.3
 - Halaman Detail Panic Button
 - Halaman Unlock Laporan Masyarakat
 
+<br>
 
 ## Screenshots
 
@@ -29,6 +33,7 @@ Aplikasi Polisi Panic Button, dibuat menggunakan Flutter versi 2.5.3
     <img src="https://github.com/hairulloh-sukur/siap-polisi-app-flutter/blob/main/screenshot/Screenshot%20App%20Siap%20Polisi%20-%20Unlock.jpg" width=25% height=25%/>  
 </p>
 
+<br>
 
 ## Preview Video
 
